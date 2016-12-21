@@ -1,3 +1,3 @@
-# Yattecast
+# Yomefm
 
-https://r7kamura.github.io/yattecast/
+https://yomefm.github.io/
