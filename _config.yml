@@ -18,7 +18,7 @@ exclude:
   - README.md
   - vendor
 hashtag: yomefm
-itunes_podcast_url:
+itunes_podcast_url: https://itunes.apple.com/jp/podcast/yome.fm/id1189585205
 keywords: yomefm,konifar,嫁fm,こにふぁー
 language: ja
 markdown: kramdown
