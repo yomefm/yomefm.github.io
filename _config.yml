@@ -7,6 +7,10 @@ actors:
     image_url: /images/actors/yome.png
     name: yome
     url: https://twitter.com/konifar
+  maetoo11:
+    image_url: /images/actors/maetoo11.jpg
+    name: maetoo11
+    url: https://twitter.com/maetoo11
 author: konifar
 description: konifarとyome氏のゆるいpodcast
 description_long: エンジニアのkonifarと専業主婦のyome氏が夫婦生活や仕事の話をゆるく話すpodcastです。
